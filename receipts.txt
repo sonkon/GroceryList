@@ -1,0 +1,6 @@
+tomatoes             $1.25
+onions               $2.20
+grapes               $1.00
+pasta                $3.00
+potatoes             $1.10
+rice balls           $7.00

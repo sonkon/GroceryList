@@ -1,0 +1,8 @@
+“rats”,”I like pets"
+"dog","Dogs can be a lot of work"
+"bird","birds are messy"
+"mouse","Those animals are so silent"
+"elephant","How can you afford to feed such a pet?"
+"turtle","Whoa. Awesome!"
+"gopher","I can dig it."
+"fish","Aren't they a bit slippery to hold, though?"

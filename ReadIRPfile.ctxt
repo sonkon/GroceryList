@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=file_path
+comment0.target=ReadIRPfile(java.lang.String)
+comment1.params=
+comment1.target=java.util.ArrayList\ OpenFile()
+comment2.params=
+comment2.target=java.util.ArrayList\ getIRPairs()
+numComments=3
